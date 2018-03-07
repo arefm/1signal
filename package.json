@@ -1,0 +1,19 @@
+{
+  "name": "onesignal",
+  "version": "1.0.0",
+  "description": "One Signal for Node.js",
+  "main": "lib/main",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "onesignal",
+    "push",
+    "notification"
+  ],
+  "author": "Aref Mirhosseini <code@arefm.me> (http://arefm.me)",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
