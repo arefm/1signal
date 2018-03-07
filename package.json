@@ -1,7 +1,7 @@
 {
-  "name": "onesignal",
+  "name": "1signal",
   "version": "1.0.0",
-  "description": "One Signal for Node.js",
+  "description": "One Signal Client for Node.js",
   "main": "lib/main",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
