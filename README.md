@@ -1,4 +1,5 @@
 # 1signal
 OneSignal Client for NodeJS
 
-### BETA VERSIO
+### BETA VERSION
+## DO NOT USE ON PRODUCTION.
