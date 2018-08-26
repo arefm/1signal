@@ -1,6 +1,6 @@
 {
   "name": "1signal",
-  "version": "1.3.2",
+  "version": "1.3.3",
   "description": "One Signal Client for Node.js",
   "main": "lib/main",
   "scripts": {
